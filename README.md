@@ -7,7 +7,7 @@
 
 A Raspberry Pi Zero size I/O automation board with 2 opto-isolated quick connect power relays. Designed for switching high power loads such as industrial equipment or appliances. Ideally suited to automation or industrial control applications.
 
-Unlike similar products, Appliance HAT Mini does not require any screw terminals or PCB wire connections. Instead it uses quick connect power relays with integrated spade terminals, meaning we have more space for relays. Appliance HAT Mini is the only 16A capable relay HAT to include 6 relays on a single board.
+Unlike similar products, Appliance HAT Mini does not require any screw terminals or PCB wire connections. Instead it uses quick connect power relays with integrated spade terminals, meaning we have more space for relays.
 
 ## Features
 
@@ -73,7 +73,7 @@ Removing the LINK jumper from Appliance HAT Mini will disconnect 5V power to the
 
 ## Back-Powering *
 
-Using a decent power supply, such as the official Raspberry Pi adaptor, you can expect to pull around 1.5A from the 5V pins on a Raspberry Pi. You can use up to 8 Appliance HAT Minis with a single Raspberry Pi. That's up to 48 relays, 48 LEDs and 8 GPIO expanders which all need power. It's easy to see how quickly we can go over the limit, especially if the GPIO expanders are used to drive other devices. Back-powering can solve this.
+Using a decent power supply, such as the official Raspberry Pi adaptor, you can expect to pull around 1.5A from the 5V pins on a Raspberry Pi. You can use up to 8 Appliance HAT Minis with a single Raspberry Pi. That's up to 16 relays, 16 LEDs and 8 GPIO expanders which all need power. It's easy to see how quickly we can go over the limit, especially if the GPIO expanders are used to drive other devices. Back-powering can solve this.
 
 The relays on Appliance HAT Mini can be back-powered via the 3.5mm pitch screw terminal.
 
@@ -114,8 +114,8 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT-Mini/master/img/Appliance-HAT-Mini-v1.0-dimensions.svg">
-        <img alt="Mechanical Drawing" src="/img/Appliance-HAT-Mini-v1.0-dimensions.svg" width="500">
+    <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT-Mini/master/img/appliance-hat-mini-v1.0-dimensions.svg">
+        <img alt="Mechanical Drawing" src="/img/appliance-hat-mini-v1.0-dimensions.svg" width="500">
     </a>
 </p>
 
