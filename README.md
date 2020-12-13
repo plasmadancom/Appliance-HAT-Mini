@@ -20,6 +20,12 @@ Unlike similar products, Appliance HAT Mini does not require any screw terminals
 
 ## Interactive Web GUI
 
+<p align="center">
+    <a href="https://io.plasmadan.com/appliancehatmini/" target="_blank" rel="nofollow">
+        <img alt="Appliance HAT Mini Web GUI" src="/img/appliance-hat-mini-mockup.gif" width="600">
+    </a>
+</p>
+
 Once installed on your Raspberry Pi, this interactive GUI allows quick &amp; easy control of your Appliance HAT Mini without the need for any coding. It is designed to be both a user guide &amp; quick reference to the Appliance HAT Mini pinout. The GUI is fully responsive and adapts to any screen size.
 
 Check-out the [Live Demo.](https://io.plasmadan.com/appliancehatmini/)
