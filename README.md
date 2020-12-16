@@ -120,14 +120,14 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT-Mini/master/img/appliance-hat-mini-v1.0-dimensions.svg">
+    <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT-Mini/main/img/appliance-hat-mini-v1.0-dimensions.svg">
         <img alt="Mechanical Drawing" src="/img/appliance-hat-mini-v1.0-dimensions.svg" width="500">
     </a>
 </p>
 
 ## Where to Go From Here
 
-Integrating Appliance HAT Mini with your own projects is easy, just follow any guide which uses the MCP23017 expander. We have provided some example Python scripts to get you started (see [here](https://github.com/plasmadancom/Appliance-HAT-Mini/tree/master/python_examples)).
+Integrating Appliance HAT Mini with your own projects is easy, just follow any guide which uses the MCP23017 expander. We have provided some example Python scripts to get you started (see [here](https://github.com/plasmadancom/Appliance-HAT-Mini/tree/main/python_examples)).
 
 Integration with [Home Assistant](https://www.home-assistant.io/integrations/mcp23017/) is easy thanks to the MCP23017.
 
